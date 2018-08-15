@@ -14,7 +14,7 @@ cover: assets/images/blog-cover.jpg
 logo: NULL
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
-production_url: https://ghrcem-pune.github.io/website/
+production_url: https://ghrcem-pune.github.io/_site/
 source_url: https://github.com/GHRCEM-PUNE/digitalnewsletter.github.io
 
 # Social info
@@ -67,12 +67,12 @@ feed:
 safe: False
 lsi: False
 username: GHRCEM-PUNE
-repo: digitalnewsletter.github.io
+repo: digitalnewsletter.github.io/
 branch: master
 relative_source: ../digitalnewsletter.github.io/
 destination: _site/
-production_url: https://ghrcem-pune.github.io/website/
-source_url: https://github.com/GHRCEM-PUNE/digitalnewsletter.github.io
+production_url: https://ghrcem-pune.github.io/_site/
+source_url: https://github.com/GHRCEM-PUNE/digitalnewsletter.github.io/
 
 exclude:
   - assets/css
