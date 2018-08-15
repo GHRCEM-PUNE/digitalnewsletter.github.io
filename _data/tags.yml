@@ -1,0 +1,14 @@
+machine-learning:
+  name: machine-learning
+  description: Machine learning is a subset of artificial intelligence in the field of computer science that often uses statistical techniques to give computers the ability to "learn" with data, without being explicitly programmed. 
+  cover: False # or assets/images/file.jpg
+
+entrepreneurship:
+  name: entrepreneurship
+  description: the activity of setting up a business or businesses, taking on financial risks in the hope of profit. 
+  cover: False
+
+web-technologies:
+  name: web-technologies
+  description: Web technology refers to the means by which computers communicate with each other using markup languages and multimedia packages. It gives us a way to interact with hosted information, like websites.
+  cover: False

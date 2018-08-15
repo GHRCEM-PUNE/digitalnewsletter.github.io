@@ -1,0 +1,25 @@
+aman:
+  username: aman
+  name: Aman Roy
+  location: Pune, Maharashtra
+  url_full: http://amanroy.me/
+  url: amanroy.me
+  bio: False
+  picture: assets/images/authors/aman.jpg
+  facebook: amanroy007
+  twitter: Amanroy_geek
+  cover: False
+
+# template
+# aman:
+#   username: aman
+#   name: Aman Roy
+#   location: Pune, Maharashtra
+#   url_full: http://amanroy.me/
+#   url: amanroy.me
+#   bio: False
+#   picture: assets/images/authors/aman.jpg
+#   facebook: amanroy007
+#   twitter: Amanroy_geek
+#   cover: False or assets/images/authors/aman.jpg
+
