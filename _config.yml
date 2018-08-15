@@ -5,7 +5,8 @@ paginate: 100 # it will paginate after this number
 language: 'en-uk'
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /
+jekyll-mentions:
+  baseurl: https://ghrcem-pune.github.io/_site/
 
 # Website info
 title: Digital Newsletter
@@ -73,6 +74,7 @@ relative_source: ../digitalnewsletter.github.io/
 destination: _site/
 production_url: https://ghrcem-pune.github.io/_site/
 source_url: https://github.com/GHRCEM-PUNE/digitalnewsletter.github.io/
+
 
 exclude:
   - assets/css
