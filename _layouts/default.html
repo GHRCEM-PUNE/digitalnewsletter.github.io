@@ -13,9 +13,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <!-- Styles'n'Scripts -->
 
-    <link rel="stylesheet" type="text/css" href="{% if site.baseurl.size == 1 %} {{ site.baseurl }}assets/built/screen.css {% else %} {{ site.baseurl }}/assets/built/screen.css {% endif %}" />
-    <link rel="stylesheet" type="text/css" href="{% if site.baseurl.size == 1 %} {{ site.baseurl }}assets/built/screen.edited.css {% else %} {{ site.baseurl }}/assets/built/screen.edited.css {% endif %}" />
-    <link rel="stylesheet" type="text/css" href="{% if site.baseurl.size == 1 %} {{ site.baseurl }}assets/built/syntax.css {% else %} {{ site.baseurl }}/assets/built/syntax.css {% endif %}" />
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}assets/built/screen.css" />
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}assets/built/screen.edited.css" />
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}assets/built/syntax.css" />
     <!-- highlight.js -->
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css">
     <style>.hljs { background: none; }</style>
