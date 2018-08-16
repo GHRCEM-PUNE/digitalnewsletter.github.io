@@ -25,7 +25,10 @@ into the {body} of the default.hbs template -->
         <article class="post-full {{ page.subclass }} {% unless page.cover %}no-image{% endunless %}">
 
             <header class="post-full-header">
-                <h1 class="post-full-title">{{ page.title }}</h1>
+                {% if page.title == 'COMPUTER DEPARTMENT' %}
+                    <strong>G H RAISONI COLLEGE OF ENGINEERING & MANAGEMENT,WAGHOLI, PUNE </strong>
+                {% endif %}
+                <h1 class="post-full-title" {% if page.title == 'COMPUTER DEPARTMENT' %}style="background-image: url('https://cdn3.techworld.com/cmsdata/slideshow/3612638/C_programming_-_C_programming_concepts_and_C_FAQs_thumb650.png'); color: white;"{% endif %}>{{ page.title }}</h1>
             </header>
 
             {% if page.cover %}
