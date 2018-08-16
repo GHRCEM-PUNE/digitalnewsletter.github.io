@@ -11,7 +11,7 @@ baseurl: /
 title: Digital Newsletter
 description: In association with GHRCEM, Pune
 cover: /assets/images/blog-cover.jpg
-logo: NULL
+logo: False
 logo_dark: /assets/images/favicon.png
 favicon: /assets/images/favicon.png
 production_url: https://ghrcem-pune.github.io/_site/
