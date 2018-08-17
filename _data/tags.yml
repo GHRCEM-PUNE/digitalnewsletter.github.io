@@ -18,3 +18,8 @@ microprocessor:
   name: Microprocessor
   description: 8086 Microprocessor is an enhanced version of 8085Microprocessor that was designed by Intel in 1976. 
   cover: False
+
+personality:
+  name: Personality
+  description: Personality development is the relatively enduring pattern of thoughts, feelings, and behaviors that distinguish individuals from one another.
+  cover: False
