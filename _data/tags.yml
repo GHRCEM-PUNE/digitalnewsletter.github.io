@@ -12,3 +12,9 @@ web-technologies:
   name: web-technologies
   description: Web technology refers to the means by which computers communicate with each other using markup languages and multimedia packages. It gives us a way to interact with hosted information, like websites.
   cover: False
+
+
+microprocessor:
+  name: Microprocessor
+  description: 8086 Microprocessor is an enhanced version of 8085Microprocessor that was designed by Intel in 1976. 
+  cover: False

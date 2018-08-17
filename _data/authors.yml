@@ -10,6 +10,18 @@ aman:
   twitter: Amanroy_geek
   cover: False
 
+raheena:
+  username: raheena
+  name: Raheena Bagwan
+  location: Pune, Maharashtra
+  url_full: False
+  url: False
+  bio: False
+  picture: False
+  facebook: False
+  twitter: False
+  cover: False
+
 # template
 # aman:
 #   username: aman
