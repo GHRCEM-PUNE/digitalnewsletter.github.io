@@ -1,4 +1,3 @@
-
 ---
 layout: post
 current: post
@@ -14,11 +13,11 @@ author: raheena
 
 ### S.Y.B.TECH. Workshop on Embedded OS
 
-# Caption: S.Y.B.TECH. Workshop on Embedded OS
+> Caption: S.Y.B.TECH. Workshop on Embedded OS
 
+### Description About Seminar:
+<p> Department of Computer Engineering of G.H.Raisoni College of Engineering and Management Wagholi, Pune, Recently organized Workshop 0n ‚ÄúEmbedded OS‚Äù for S.Y.Btech. Students on 7 October, 2017.Ms.Aditi Jawanjalkar, Assistant Professor, Computer Engineering Department conducted the workshop.</p>
 
-## Description About Seminar:
-       <p> Department of Computer Engineering of G.H.Raisoni College of Engineering and Management Wagholi, Pune, Recently organized Workshop 0n ìEmbedded OSî for S.Y.Btech. Students on 7 October, 2017.Ms.Aditi Jawanjalkar, Assistant Professor, Computer Engineering Department conducted the workshop.
 - Basic introduction to Embedded Systems is given in the workshop. 
 - Importance of Real Time Operating system and its trends in the real world is briefly explained to the students in the workshop.
 
@@ -28,15 +27,4 @@ author: raheena
 
 
 > Around 120 students attended the workshop with full enthusiasm. <br>
-
 > Date-07 October 2017
-
-
-
-
-
-
-
-
-
-

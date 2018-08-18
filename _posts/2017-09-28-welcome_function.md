@@ -13,10 +13,11 @@ author: raheena
 
 ### WELCOME FUNCTION OF S.Y.B.TECH.
 
-# Caption: Welcome Function of S.Y.B.TECH.
+> Caption: Welcome Function of S.Y.B.TECH.
   
 ## Description about Function :
-<p> On 28 September, 2017, S.Y.B.TECH. Welcome function was organized by COMET (association of computer Engg. Students) of computer department, G. H. Raisoni college of engineering and management Wagholi, Pune. The function was organized in ìKapila Resortî, Wagholi. The function was initiated with lamp lightening at 11:00 A.M. and ended at 4:00P.M. 
+<p> On 28 September, 2017, S.Y.B.TECH. Welcome function was organized by COMET (association of computer Engg. Students) of computer department, G. H. Raisoni college of engineering and management Wagholi, Pune. The function was organized in ‚ÄúKapila Resort‚Äù, Wagholi. The function was initiated with lamp lightening at 11:00 A.M. and ended at 4:00P.M. </p>
+
 Prof. Poonam Gupta, H.O.D. Computer department welcomed & motivated the students for taking active participation in extracurricular activities along with academics. Different games were arranged for students and staff. The function was organized under the guidance of Mr. Sachin Patil and Ms.Geeta Atkar(COMET In charge) by COMET volunteers. Program was accomplished with discipline and all new comers got boosted with new energy for new start of Engineering.
 
 ![students attending seminar](assets/images/15_welcome_function/1.jpg  "welcome_function_1")

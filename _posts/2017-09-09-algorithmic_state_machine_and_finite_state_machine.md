@@ -1,4 +1,3 @@
-
 ---
 layout: post
 current: post
@@ -15,13 +14,14 @@ author: raheena
 
 
 
-### ìA Guest lecture on Algorithmic State machine & Finite State Machineî
-# Caption: Guest lecture on Algorithmic State machine and Finite State Machine on   09th  Sept 2017.
-  
-## Description about the event:
+### ‚ÄúA Guest lecture on Algorithmic State machine & Finite State Machine‚Äù
 
-> <p> As a part of student ña guest lecture was organized by Mrs. Sarita Patil on Saturday 9th September 2017 for SY B.tech A and B Div Students under the guidance Mrs. Poonam Gupta (HOD Computer Dept).
-A day long guest lecture was conducted by Ms. Sunita Deshmukh from SKNCOE, Pune. She has a vast experience in the field of Digital Electronics and logic Design. Topic of lecture was ìAlgorithmic State Machine and Finite State Machineî, even beyond the topic  like sequence generator and Decade counter is also explained , by the speaker.
+> Caption: Guest lecture on Algorithmic State machine and Finite State Machine on   09th  Sept 2017.
+  
+### Description about the event:
+
+<p> As a part of student ‚Äìa guest lecture was organized by Mrs. Sarita Patil on Saturday 9th September 2017 for SY B.tech A and B Div Students under the guidance Mrs. Poonam Gupta (HOD Computer Dept).</p>
+A day long guest lecture was conducted by Ms. Sunita Deshmukh from SKNCOE, Pune. She has a vast experience in the field of Digital Electronics and logic Design. Topic of lecture was ‚ÄúAlgorithmic State Machine and Finite State Machine‚Äù, even beyond the topic  like sequence generator and Decade counter is also explained , by the speaker.
 After the basic idea provided by Ms. Sunita Deshmukh, a small examples related to topic explained and solved thoroughly.
 So many doubts of students were cleared at the same time. She also explained the difference between ASM and FSM.  Finally guest lecture ended with the vote of thanks by Ms. Urmila Biradar 
 Feedbacks reveal that the session was a great success and added values to the thought process of the students. 
