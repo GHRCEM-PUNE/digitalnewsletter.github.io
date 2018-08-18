@@ -27,7 +27,26 @@ subclass: 'post page'
 					<strong>--</strong> To promote continuous learning, entrepreneurial skills and research abilities amongst the students.
 			</p>
 	</div>
-	<div class="row">
+  	<hr>
+  	<div class="row">
+  		<h2><center>Activities</center></h2>
+	  	<section class="archive-post-list">
+
+		   {% for post in site.posts %}
+		       {% assign currentDate = post.date | date: "%Y" %}
+		       {% if currentDate != myDate %}
+		           {% unless forloop.first %}</ul>{% endunless %}
+		           <h3>{{ currentDate }}</h3>
+		           <ul>
+		           {% assign myDate = currentDate %}
+		       {% endif %}
+		       <li><a href="{{ post.url }}"><span>{{ post.date | date: "%B %-d, %Y" }}</span> - {{ post.title }}</a></li>
+		       {% if forloop.last %}</ul>{% endif %}
+		   {% endfor %}
+
+		</section>
+  	</div>
+  	<div class="row">
     	<div class="one-half column">
     		<table class="u-full-width">
 			  <thead>
@@ -36,21 +55,17 @@ subclass: 'post page'
 			    </tr>
 			  </thead>
 			  <tbody>
-			    <tr>
-			      <td><strong>Event 1 goes here. </strong><br> <small>Minute details goes here......</small></td>
-			    </tr>
-			    <tr>
-			      <td>Event 2</td>
-			    </tr>
-			    <tr>
-			      <td>Event 3</td>
-			    </tr>
-			    <tr>
-			      <td>Event 4</td>
-			    </tr>
-			    <tr>
-			      <td>Event 5</td>
-			    </tr>
+			    {% if site.data.notices %}
+				  	{% for event in site.data.events %}
+				  		<tr>
+				      		<td><strong> {{ event.title }} </strong><br> <small>{{ event.details }}</small></td>
+				    	</tr>
+				  	{% endfor %}
+				{% else %}
+					<tr>
+				      	<td><strong><center>No Data!</center></strong></td>
+				    </tr>
+				{% endif %}
 			  </tbody>
 			</table>
     	</div>
@@ -62,21 +77,17 @@ subclass: 'post page'
 			    </tr>
 			  </thead>
 			  <tbody>
-			    <tr>
-			      <td><strong>Notice 1 goes here. </strong><br> <small>Minute details goes here......</small></td>
-			    </tr>
-			    <tr>
-			      <td>Notice 2</td>
-			    </tr>
-			    <tr>
-			      <td>Notice 3</td>
-			    </tr>
-			    <tr>
-			      <td>Notice 4</td>
-			    </tr>
-			    <tr>
-			      <td>Notice 5</td>
-			    </tr>
+			  	{% if site.data.notices %}
+				  	{% for notice in site.data.notices %}
+				  		<tr>
+				      		<td><strong> {{ notice.title }} </strong><br> <small>{{ notice.details }}</small></td>
+				    	</tr>
+				  	{% endfor %}
+				{% else %}
+					<tr>
+				      	<td><strong><center>No Data!</center></strong></td>
+				    </tr>
+				{% endif %}
 			  </tbody>
 			</table>
     	</div>
