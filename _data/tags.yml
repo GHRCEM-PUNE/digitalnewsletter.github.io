@@ -25,68 +25,68 @@ personality:
   cover: False
 
 induction-program:
-  name:Induction_Program 
+  name: Induction_Program 
   description: An induction programme is the process used within many institutes to welcome new learners to the employment and prepare them for their new role.
   cover: False
 
 freshers-party:
-  name:Freshers-Party
-  description:The word fresher's party itself points towards Fresher's i.e. the event organised for fresher's. 
+  name: Freshers-Party
+  description: The word fresher's party itself points towards Fresher's i.e. the event organised for fresher's. 
   cover: False
 
 hardware-troubleshooting:
   name: hardware-troubleshooting
-  description:Hardware troubleshooting is the process of reviewing, diagnosing and identifying operational or technical problems within a hardware device or equipment. 
+  description: Hardware troubleshooting is the process of reviewing, diagnosing and identifying operational or technical problems within a hardware device or equipment. 
   cover: False
 
 state-machine:
   name: state-machine
-  description:The algorithmic state machine (ASM) method is a method for designing finite state machines. It is used to represent diagrams of digital integrated circuits. 
+  description: The algorithmic state machine (ASM) method is a method for designing finite state machines. It is used to represent diagrams of digital integrated circuits. 
   cover: False
 
 industrial-visit:
   name: industrial-visit
-  description:Industrial visit is a part of professional (mostly engineering / MBA / Diploma ) courses, during which students visit companies and get insight of on the internal working environment of the company.
+  description: Industrial visit is a part of professional (mostly engineering / MBA / Diploma ) courses, during which students visit companies and get insight of on the internal working environment of the company.
   cover: False
 
 poster-seminar:
   name: poster-seminar
-  description:A poster session is the presentation of research information by an individual or members of a research team
+  description: A poster session is the presentation of research information by an individual or members of a research team
   cover: False
 
 uml-seminar:
   name: uml-seminar
-  description:The Unified Modeling Language (UML) is a general-purpose, developmental, modeling language in the field of software engineering,
+  description: The Unified Modeling Language (UML) is a general-purpose, developmental, modeling language in the field of software engineering,
   cover: False
 
 cloud:
   name: cloud
-  description:Cloud computing is an information technology (IT) paradigm that enables ubiquitous access to shared pools of configurable system resources and higher-level services that can be rapidly provisioned with minimal management effort, often over the Internet.
+  description: Cloud computing is an information technology (IT) paradigm that enables ubiquitous access to shared pools of configurable system resources and higher-level services that can be rapidly provisioned with minimal management effort, often over the Internet.
   cover: False
 
 avishkar-orientation-lecture:
-  name:avishkar-orientation-lecture
-  description:Avishkar Orientation Lecture held to make students aware of new ideologies and invention they  can make in future.
+  name: avishkar-orientation-lecture
+  description: Avishkar Orientation Lecture held to make students aware of new ideologies and invention they  can make in future.
   cover: False
 
 welcome-function:
-  name:welcome-function
-  description:ORIENTATION AND WELCOME FUNCTION FOR DIRECT SECOND YEAR ENGINEERING STUDENT.
+  name: welcome-function
+  description: ORIENTATION AND WELCOME FUNCTION FOR DIRECT SECOND YEAR ENGINEERING STUDENT.
   cover: False
   
- embedded-os:
+embedded-os:
   name: embedded-os
-  description:An embedded operating system is a specialized OS for use in the computers built into larger systems.
+  description: An embedded operating system is a specialized OS for use in the computers built into larger systems.
   cover: False
 
- parent-meet:
+parent-meet:
   name: parent-meet
-  description:Parent- Teacher  come together to discuss things or make decisions
+  description: Parent- Teacher  come together to discuss things or make decisions
   cover: False
   
- industrial-visit-casnet:
+industrial-visit-casnet:
   name: industrial-visit-casnet
-  description:Idustrial visit was been made to IT Industry CASNET in Narhe,Pune.
-  cover: False:
+  description: Idustrial visit was been made to IT Industry CASNET in Narhe,Pune.
+  cover: False
   
 
