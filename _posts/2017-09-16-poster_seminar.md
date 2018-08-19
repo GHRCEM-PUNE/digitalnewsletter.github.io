@@ -13,14 +13,16 @@ author: raheena
 
 ### S.Y.B.TECH. Poster Competition
 
-# Caption: Poster Gallery
+>  Caption: Poster Gallery
 
 ### Description About poster Competition:
 
- <p>      Department of Computer Engineering of G.H.Raisoni College of Engineering and Management Wagholi, Pune, Recently organized a poster competition Sy.Btech Students on 16 september,2017. 
+<p>Department of Computer Engineering of G.H.Raisoni College of Engineering and Management Wagholi, Pune, Recently organized a poster competition Sy.Btech Students on 16 september,2017. </p>
+
 - Posters were prepared by students on topics of their subjects.
 - Several numbers of students submitted the posters among which few best were selected & displayed in the poster gallery.
-<p>  Ms. Aditi Jawanjalkar, Assistant Professor, Computer Engineering Department arranged the competition in the presence of Chief guest Mr. Kushal Sharma and Mrs.Poonam Gupta Head of Department of Computer Engineering evaluated the posters. 
+
+<p>  Ms. Aditi Jawanjalkar, Assistant Professor, Computer Engineering Department arranged the competition in the presence of Chief guest Mr. Kushal Sharma and Mrs.Poonam Gupta Head of Department of Computer Engineering evaluated the posters. </p> 
 
 ![students attending seminar](assets/images/11_poster_seminar/1.jpg  "poster_seminar_1")
 ![students attending seminar](assets/images/11_poster_seminar/2.jpg  "poster_seminar_2")
@@ -33,17 +35,14 @@ author: raheena
 ![students attending seminar](assets/images/11_poster_seminar/9.jpg  "poster_seminar_9")
 ![students attending seminar](assets/images/11_poster_seminar/10.jpg  "poster_seminar_10")
 ![students attending seminar](assets/images/11_poster_seminar/11.jpg  "poster_seminar_11")
-![students attending seminar](assets/images/11_poster_seminar/12.jpg  "poster_seminar_12")
-![students attending seminar](assets/images/11_poster_seminar/13.jpg  "poster_seminar_13")
-
-
-
-
-
 
 - Students participated with great enthusiasm in the competition. <br>
 
-> Date-16/09/2017
+> ### Details of the coordinator: <br>
+> Ms. Aditi Jawanjalkar <br>
+> Department: COMPUTER ENGINEERING    
+> Organization : GHRCEM, Pune <br>
+> Date: (16/09/2017)
 
 
 

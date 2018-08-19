@@ -27,6 +27,7 @@ author: raheena
 ![students attending seminar](assets/images/10_industrial_visit/3.jpg  "industrial_visit_3")
 
 
-> Details of the coordinator:  Mr. Sachin P. Patil <br> 
+> ### Details of the coordinator:  <br>
+> Mr. Sachin P. Patil <br> 
 > Organization : GHRCEM, Pune <br>
 > Date: (15/09/2017 ) <br>

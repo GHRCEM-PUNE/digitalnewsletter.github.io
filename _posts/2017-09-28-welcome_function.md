@@ -31,9 +31,9 @@ Prof. Poonam Gupta, H.O.D. Computer department welcomed & motivated the students
 ![students attending seminar](assets/images/15_welcome_function/9.jpg  "welcome_function_9")
 ![students attending seminar](assets/images/15_welcome_function/10.jpg  "welcome_function_10")
 
-> Details of the co-ordinator: <br>
+> ### Details of the co-ordinator: <br>
 > Name: Ms. Geeta Atkar <br>
-> Department: COMPUTER ENGINEERING <br>   
+> Department: COMPUTER ENGINEERING <br>
 > Organization : GHRCEM, Pune <br>
 > Date:28 September, 2017
 

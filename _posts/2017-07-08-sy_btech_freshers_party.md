@@ -23,8 +23,8 @@ On 8 July 2017, SE induction program was organized by computer department of G. 
 ![students attending seminar](assets/images/07_freshers_party/1.jpg "microprocessor_8086_1")
 ![students attending seminar](assets/images/07_freshers_party/2.jpg "microprocessor_8086_2")
 
-> Details of the co-ordinator:
-> Name: Ms. Geeta Atkar 
-> Department: COMPUTER ENGINEERING    
-> Organization : GHRCEM, Pune 
+> ### Details of the co-ordinator:
+> Name: Ms. Geeta Atkar  <br>
+> Department: COMPUTER ENGINEERING   <br> 
+> Organization : GHRCEM, Pune <br>
 > Date:8 July,2017

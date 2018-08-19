@@ -29,8 +29,9 @@ Mrs. Poonam Gupta, Head of Computer Department apprised the parents about the im
 ![students attending seminar](assets/images/17_parent_meet/2.png  "17_parent_meet_2")
 
 
-> Details of the PTM coordinator: <br>   
+> ### Details of the PTM coordinator:
 > Name: Ms. Sindhu M.R	<br> 
 > date: 2017-10-07 <br>
-> Department: COMPUTER ENGINEERING                                                                                                                                               	Date: 07 October 2017
+> Department: COMPUTER ENGINEERING <br>
+> Date: 07 October 2017
 

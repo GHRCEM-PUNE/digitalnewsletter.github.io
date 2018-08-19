@@ -26,7 +26,7 @@ Feedbacks reveal that the session was a great success and added values to the th
 ![students attending seminar](assets/images/08_hardware_and_troubleshooting/1.jpg  "freshers_induction_1")
 ![students attending seminar](assets/images/08_hardware_and_troubleshooting/2.jpg  "freshers_induction_2")
 
-> Details of the Program coordinator:  <br>
+> ### Details of the Program coordinator:  <br>
 > Name: Mrs. Sarita Patil, Mr. Sandeep Gore <br>
 > Department: Computer Engineering <br>
 > G. H. Raisoni College of Engineering, Wagholi, Pune, 412207 <br>

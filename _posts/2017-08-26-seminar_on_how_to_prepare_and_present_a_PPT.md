@@ -21,6 +21,10 @@ Department of Computer Engineering of G.H.Raisoni College of Engineering and Man
 ![students attending seminar](assets/images/05_how_to_prepare_ppt/2.jpg  "how_to_prepare_ppt_2")
 
 
+> ### Details of the Program coordinator:  <br>
+> Name: Ms. Aditi Jawanjalkar <br>
+> Department: COMPUTER ENGINEERING <br>
+> Organization : GHRCEM, Pune <br>
 > Date-26 Aug 2017
 
 

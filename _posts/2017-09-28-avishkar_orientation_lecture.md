@@ -12,11 +12,12 @@ author: raheena
 ---
 
 ### Computer  Department :Avishkar Orientation Lecture -AISSMS IOIT
-# CAPTION: AVISHKAR ORIENTATION LECTUREFOR STATE LEVEL PROJECT COMPETITION.
+
+> CAPTION: AVISHKAR ORIENTATION LECTUREFOR STATE LEVEL PROJECT COMPETITION.
   
-## Description aboutAvishkar State level Project Competition:
+### Description aboutAvishkar State level Project Competition:
 <p> Savitribai Phule Pune University has Board of College and University Development (BCUD) for progressive growth in Research and Development  . BCUD aims to motivate students of different streams like social science, healthcare, argriculture, engineering and technology at UG, PG, Ph.D  level and faculties also to think innovatively and uniquely in research way to benefit socities. SPPU has started Avishkar in 2006 to give platform to young and dynamide students from rural areas and colleges in pune city. Every year they register innovative ideas from all ends of state and further evaluated by experts.
-Computer Department have attended the orientation lecture on same with Mrs. MansiBhonsle( Project Coordinator) and 30 studentson 28nd Sept 2017.The Dr. S. S. Dambhare, Professor, Electrical Engineering Dept.,College of Engineering COEP has given brief information of Avishkar.  Dr. AdityaAbhyankar,Professor, Department of Technology,SavitribaiPhule Pune University ahs delivered motivational speech for students by sharing own experiences. Students were statisfied by the eyeoperner sessions and willing to participate in Avishkar-2018
+Computer Department have attended the orientation lecture on same with Mrs. MansiBhonsle( Project Coordinator) and 30 studentson 28nd Sept 2017.The Dr. S. S. Dambhare, Professor, Electrical Engineering Dept.,College of Engineering COEP has given brief information of Avishkar.  Dr. AdityaAbhyankar,Professor, Department of Technology,SavitribaiPhule Pune University ahs delivered motivational speech for students by sharing own experiences. Students were statisfied by the eyeoperner sessions and willing to participate in Avishkar-2018</p>
 
 ![students attending seminar](assets/images/14_avishkar_orientation_lecture/1.jpg  "avishkar_orientation_lecture_1")
 ![students attending seminar](assets/images/14_avishkar_orientation_lecture/2.jpg  "avishkar_orientation_lecture_2")
@@ -29,8 +30,9 @@ Computer Department have attended the orientation lecture on same with Mrs. Mans
 
 
 
-> Details of the News coordinator:  Mrs. MansiBhonsle <br>
-> Department: COMPUTER ENGINEERING  <br>  
+> ### Details of the News coordinator:  <br>
+> Mrs. MansiBhonsle <br>
+> Department: COMPUTER ENGINEERING <br>
 > Organization : GHRCEM, Pune <br>
 > Date: (28/9/2017 )
 
