@@ -72,7 +72,7 @@ repo: digitalnewsletter.github.io/
 branch: master
 relative_source: ../digitalnewsletter.github.io/
 destination: _site/
-production_url: https://ghrcem-pune.github.io/digitalnewsletter.github.io/
+production_url: https://mystifying-wilson-9d61d0.netlify.com/
 source_url: https://github.com/GHRCEM-PUNE/digitalnewsletter.github.io/
 
 
