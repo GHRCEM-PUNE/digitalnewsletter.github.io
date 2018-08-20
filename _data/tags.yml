@@ -1,4 +1,4 @@
-machine-learning:
+    qmachine-learning:
   name: machine-learning
   description: Machine learning is a subset of artificial intelligence in the field of computer science that often uses statistical techniques to give computers the ability to "learn" with data, without being explicitly programmed. 
   cover: False # or assets/images/file.jpg
@@ -86,7 +86,64 @@ parent-meet:
   
 industrial-visit-casnet:
   name: industrial-visit-casnet
-  description: Idustrial visit was been made to IT Industry CASNET in Narhe,Pune.
+  description: Idustrial visit  to IT Industry CASNET in Narhe,Pune.
   cover: False
   
+technowave:
+  name: technowave
+  description: TECHNOWAVE event was been held on 13th of january,2018
+  cover: False
 
+pansoft-technology:
+  name: pansoft-technology
+  description:  Idustrial visit  to Pansoft-Technology in Pune.
+  cover: False
+
+web-technology:
+  name: web-technology
+  description:  Web technology refers to the means by which computers communicate with each other using markup languages and multimedia packages
+  cover: False
+ios:
+  name: ios
+  description: iOS is a mobile operating system created and developed by Apple Inc. exclusively for its hardware.  
+  cover: False
+  
+deep-learning:
+  name: deep-learning
+  description:  Deep learning (also known as deep structured learning or hierarchical learning) is part of a broader family of machine learning methods based on learning data representations, as opposed to task-specific algorithms. 
+  cover: False
+
+vidyan-asharam:
+  name: vidyan-asharam
+  description:  Vigyan Ashram and Savitribai Phule Pune University collaboratively started 'Design Innovation Center' at Pabal.
+  cover: False
+
+fdp-workshop:
+  name: fdp-workshop
+  description:   Indian Institute of Management Indore (IIMI) is pleased to announce the tenth edition of Faculty Development Programme (FDP) 2018.WORKSHOP is a meeting at which a group of people engage in intensive discussion and activity on a particular subject or project.
+  cover: False
+
+big-data:
+  name: big-data
+  description: Big data is often characterized by 3Vs, the extreme volume of data, the wide variety of data types and the velocity at which the data must be processed. Although big data doesn't equate to any specific volume of data, the term is often used to describe terabytes, petabytes and even exabytes of data captured over time.   
+  cover: False
+
+imedita:
+  name: imedita
+  description: India's Most Trusted Cisco CCNA, CCNP, CCIE Training Institute with 24*7 Lab Access.CCIE Certified Trainers. Maharashtra's Biggest Cisco Training Labs.
+  cover: False
+
+debate:
+  name: debate
+  description: Debate is a process that involves formal discussion on a particular topic. In a debate, opposing arguments are put forward to argue for opposing viewpoints. Debate occurs in public meetings, academic institutions, and legislative assemblies.
+  cover: False
+
+java:
+  name: java
+  description: Java is a general-purpose computer-programming language that is concurrent, class-based, object-oriented, and specifically designed to have as few implementation dependencies as possible. 
+  cover: False
+
+nes:
+  name: nes
+  description: NES has established a national award program that will be administered through an innovation identification mission that will span academic institutions across.
+  cover: False

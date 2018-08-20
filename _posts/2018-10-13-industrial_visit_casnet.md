@@ -1,4 +1,3 @@
-
 ---
 layout: post
 current: post
@@ -31,6 +30,3 @@ author: raheena
 > Department: COMPUTER ENGINEERING    
 > Organization : GHRCEM, Pune
 > Date: (13/10/2017 )
-
-
-
