@@ -1,4 +1,5 @@
-Layout: post
+---
+layout: post
 current: post
 cover:  assets/images/36_onboarding/cover.jpg
 navigation: True
